@@ -131,7 +131,7 @@ variable "s3_bucket_arn" {
 
 variable "log_group_name" {
   type        = string
-  description = "Give a name wich begins with aws-waf-log"
+  description = "Give a name wich begins with aws-waf-logs."
   default     = "aws-waf-logs-sahjdsjadsd98"
 }
 
